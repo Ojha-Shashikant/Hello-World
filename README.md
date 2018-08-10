@@ -1,3 +1,4 @@
 # Hello-World
 First repository
-Hi Shashikant here, starting with git-hub.
+
+Hi Shashikant here, deleted first changes.

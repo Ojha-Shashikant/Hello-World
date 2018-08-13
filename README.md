@@ -1,4 +1,3 @@
-# Saying Hello to the user input name.
-name = input("What is your name? ")
-
-print("Hello", name)
+'''Table of 17'''
+for i in range(1, 11):
+    print("17*", i, "=", 17*i)

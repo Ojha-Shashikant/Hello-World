@@ -1,0 +1,14 @@
+"""Taking name as input and displaying Hello with name"""
+
+# input function for name
+def input_name():
+    name = input("What is your name? ")
+    return name
+
+# main function
+def main():
+    n = input_name()
+    print("Hello", n)
+
+# main starts here
+main()
